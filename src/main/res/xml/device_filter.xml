@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <usb-device vendor-id="9025" product-id="67" class="2" subclass="0" protocol="0" />
+
+
+    <!--node mcu cp2102-->
+    <usb-device vendor-id="4292" product-id="60000" class="0" subclass="0" protocol="0" />
+
+    <!--custom mcu cp2102-->
+    <usb-device vendor-id="2816" product-id="12400" class="0" subclass="0" protocol="0" />
+
+
+    <!--custom mcu 0422 cp2102-->
+    <usb-device vendor-id="4554" product-id="530" class="0" subclass="0" protocol="0" />
+
+
+    <!--nano ch340-->
+    <usb-device vendor-id="6790" product-id="29987" class="255" subclass="0" protocol="0" />
+
+    <!-- ft232r-->
+    <usb-device vendor-id="1027" product-id="24577" class="0" subclass="0" protocol="0" />
+</resources>
